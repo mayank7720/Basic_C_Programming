@@ -1,0 +1,3 @@
+Scanned: 78 source files (.c/.h)
+Generated: 33 extracted files
+Extracted blocks: 248
